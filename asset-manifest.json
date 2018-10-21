@@ -1,14 +1,14 @@
 {
-  "main.css": "/shreyas-kalmegh/shreyas-kalmegh.github.io/static/css/main.6ace8ba8.chunk.css",
-  "main.js": "/shreyas-kalmegh/shreyas-kalmegh.github.io/static/js/main.c75a603a.chunk.js",
-  "main.js.map": "/shreyas-kalmegh/shreyas-kalmegh.github.io/static/js/main.c75a603a.chunk.js.map",
-  "static/js/1.6105a37c.chunk.js": "/shreyas-kalmegh/shreyas-kalmegh.github.io/static/js/1.6105a37c.chunk.js",
-  "static/js/1.6105a37c.chunk.js.map": "/shreyas-kalmegh/shreyas-kalmegh.github.io/static/js/1.6105a37c.chunk.js.map",
-  "runtime~main.js": "/shreyas-kalmegh/shreyas-kalmegh.github.io/static/js/runtime~main.4a7db5c3.js",
-  "runtime~main.js.map": "/shreyas-kalmegh/shreyas-kalmegh.github.io/static/js/runtime~main.4a7db5c3.js.map",
-  "static/media/logo.svg": "/shreyas-kalmegh/shreyas-kalmegh.github.io/static/media/logo.5d5d9eef.svg",
-  "static/css/main.6ace8ba8.chunk.css.map": "/shreyas-kalmegh/shreyas-kalmegh.github.io/static/css/main.6ace8ba8.chunk.css.map",
-  "index.html": "/shreyas-kalmegh/shreyas-kalmegh.github.io/index.html",
-  "precache-manifest.62d64fe69846d117e7b3dc94ffaa4c1e.js": "/shreyas-kalmegh/shreyas-kalmegh.github.io/precache-manifest.62d64fe69846d117e7b3dc94ffaa4c1e.js",
-  "service-worker.js": "/shreyas-kalmegh/shreyas-kalmegh.github.io/service-worker.js"
+  "main.css": "/shreyas-kalmegh/website/static/css/main.6ace8ba8.chunk.css",
+  "main.js": "/shreyas-kalmegh/website/static/js/main.95dc1134.chunk.js",
+  "main.js.map": "/shreyas-kalmegh/website/static/js/main.95dc1134.chunk.js.map",
+  "static/js/1.6105a37c.chunk.js": "/shreyas-kalmegh/website/static/js/1.6105a37c.chunk.js",
+  "static/js/1.6105a37c.chunk.js.map": "/shreyas-kalmegh/website/static/js/1.6105a37c.chunk.js.map",
+  "runtime~main.js": "/shreyas-kalmegh/website/static/js/runtime~main.a119abff.js",
+  "runtime~main.js.map": "/shreyas-kalmegh/website/static/js/runtime~main.a119abff.js.map",
+  "static/media/logo.svg": "/shreyas-kalmegh/website/static/media/logo.5d5d9eef.svg",
+  "static/css/main.6ace8ba8.chunk.css.map": "/shreyas-kalmegh/website/static/css/main.6ace8ba8.chunk.css.map",
+  "index.html": "/shreyas-kalmegh/website/index.html",
+  "precache-manifest.bc3e58b6553e5b81d3bba249905eacbd.js": "/shreyas-kalmegh/website/precache-manifest.bc3e58b6553e5b81d3bba249905eacbd.js",
+  "service-worker.js": "/shreyas-kalmegh/website/service-worker.js"
 }

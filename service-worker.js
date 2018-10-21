@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/shreyas-kalmegh/shreyas-kalmegh.github.io/precache-manifest.62d64fe69846d117e7b3dc94ffaa4c1e.js"
+  "/shreyas-kalmegh/website/precache-manifest.bc3e58b6553e5b81d3bba249905eacbd.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/shreyas-kalmegh/shreyas-kalmegh.github.io/index.html", {
+workbox.routing.registerNavigationRoute("/shreyas-kalmegh/website/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
